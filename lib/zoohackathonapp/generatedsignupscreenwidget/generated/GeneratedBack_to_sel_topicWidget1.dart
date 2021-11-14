@@ -21,19 +21,11 @@ class GeneratedBack_to_sel_topicWidget1 extends StatelessWidget {
               Positioned(
                 left: 18.0,
                 top: 0.0,
-                right: null,
-                bottom: null,
-                width: 60.0,
-                height: 27.0,
-                child: GeneratedLeftTitleWidget1(),
+                child: BackToSinginTextWidget(),
               ),
               Positioned(
                 left: 0.0,
-                top: 0.0,
-                right: null,
-                bottom: null,
-                width: 23.0,
-                height: 29.0,
+                top: -7.0,
                 child: GeneratedIconchevronleftWidget1(),
               )
             ]),

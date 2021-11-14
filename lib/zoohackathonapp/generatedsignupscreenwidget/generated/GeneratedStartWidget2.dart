@@ -17,7 +17,7 @@ class GeneratedStartWidget2 extends StatelessWidget {
           fontSize: 20.0,
           fontFamily: 'SF Compact',
           fontWeight: FontWeight.w400,
-          color: Color.fromARGB(255, 0, 0, 0),
+          color: Color.fromARGB(255, 21, 143, 83),
 
           /* letterSpacing: 0.3799999952316284, */
         ),

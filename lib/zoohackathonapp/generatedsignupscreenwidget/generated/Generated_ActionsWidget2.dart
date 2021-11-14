@@ -30,14 +30,12 @@ class Generated_ActionsWidget2 extends StatelessWidget {
               ClipRRect(
                 borderRadius: BorderRadius.circular(30.0),
                 child: Container(
-                  color: Color.fromARGB(51, 251, 254, 255),
+                  color: Color.fromARGB(100, 117, 255, 1),
                 ),
               ),
               Positioned(
                 left: -63.5,
                 top: 18.0,
-                right: null,
-                bottom: null,
                 width: 329.0,
                 height: 26.0,
                 child: GeneratedStartWidget2(),
