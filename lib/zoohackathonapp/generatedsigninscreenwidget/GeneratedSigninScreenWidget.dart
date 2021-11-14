@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/zoohackathonapp/generatedsigninscreenwidget/generated/GeneratedWallpaperWidget.dart';
-import 'package:flutterapp/zoohackathonapp/generatedsigninscreenwidget/generated/Generated_ActionsWidget1.dart';
+import 'package:flutterapp/zoohackathonapp/generatedsigninscreenwidget/generated/SingInAction.dart';
 import 'package:flutterapp/zoohackathonapp/generatedsigninscreenwidget/generated/GeneratedSign_in_frameWidget.dart';
 
 /* Frame Sign in Screen
@@ -29,28 +29,20 @@ class GeneratedSigninScreenWidget extends StatelessWidget {
               Positioned(
                 left: 0.0,
                 top: 0.0,
-                right: null,
-                bottom: null,
                 width: 375.0,
                 height: 812.0,
-                child: GeneratedWallpaperWidget(),
+                child: SigninWallpaperWidget(),
               ),
               Positioned(
                 left: 28.0,
                 top: 159.0,
-                right: null,
-                bottom: null,
                 width: 320.0,
                 height: 373.0,
-                child: GeneratedSign_in_frameWidget(),
+                child: Sign_in_frameWidget(),
               ),
               Positioned(
                 left: 88.0,
                 top: 660.0,
-                right: null,
-                bottom: null,
-                width: 200.0,
-                height: 60.0,
                 child: Generated_ActionsWidget1(),
               )
             ]),
