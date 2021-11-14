@@ -18,21 +18,13 @@ class GeneratedSearch_tabWidget extends StatelessWidget {
           overflow: Overflow.visible,
           children: [
             Positioned(
-              left: 0.0,
-              top: 0.0,
-              right: null,
-              bottom: null,
-              width: 320.0,
-              height: 36.0,
+              left: 20.0,
+              top: 60.0,
               child: GeneratedSearchFieldWidget(),
             ),
             Positioned(
-              left: 0.0,
-              top: 60.0,
-              right: null,
-              bottom: null,
-              width: 320.0,
-              height: 352.0,
+              left: 20.0,
+              top: 100.0,
               child: GeneratedContextualMenuWidget(),
             )
           ]),

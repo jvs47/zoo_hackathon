@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/zoohackathonapp/generatedsearch_tabwidget/generated/GeneratedSFSymbolmicrophoneWidget.dart';
 import 'package:flutterapp/zoohackathonapp/generatedsearch_tabwidget/generated/GeneratedIconmagnifyingglassWidget.dart';
 import 'package:flutterapp/zoohackathonapp/generatedsearch_tabwidget/generated/GeneratedPlaceholderWidget.dart';
 
@@ -44,15 +43,6 @@ class GeneratedSearchFieldWidget1 extends StatelessWidget {
               height: 27.0,
               child: GeneratedPlaceholderWidget(),
             ),
-            Positioned(
-              left: 256.12158203125,
-              top: 9.15966796875,
-              right: null,
-              bottom: null,
-              width: 11.87841796875,
-              height: 17.6806640625,
-              child: GeneratedSFSymbolmicrophoneWidget(),
-            )
           ]),
     );
   }

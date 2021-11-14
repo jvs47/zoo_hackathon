@@ -17,7 +17,7 @@ class GeneratedCancelWidget extends StatelessWidget {
           fontSize: 17.0,
           fontFamily: 'SF Pro Text',
           fontWeight: FontWeight.w400,
-          color: Color.fromARGB(255, 255, 255, 255),
+          color: Color.fromARGB(255, 0, 0, 0),
 
           /* letterSpacing: -0.40799999237060547, */
         ),

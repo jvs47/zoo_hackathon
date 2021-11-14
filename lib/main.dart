@@ -36,7 +36,7 @@ class zooHackathonApp extends StatelessWidget {
         '/GeneratedUserscreenWidget': (context) => GeneratedUserscreenWidget(),
         '/GeneratedQuestionScreenWidget': (context) =>
             GeneratedQuestionScreenWidget(),
-        '/GeneratedSearch_tabWidget': (context) => GeneratedSearch_tabWidget(),
+        //'/GeneratedSearch_tabWidget': (context) => GeneratedSearch_tabWidget(),
         '/GeneratedFrame1Widget': (context) => GeneratedFrame1Widget(),
       },
     );
