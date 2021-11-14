@@ -9,7 +9,7 @@ class GeneratedMagnifyingglassWidget2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () => Navigator.pushNamed(context, '/GeneratedSearch_tabWidget'),
+      //onTap: () => Navigator.pushNamed(context, '/GeneratedSearch_tabWidget'),
       child: ClipRRect(
         borderRadius: BorderRadius.zero,
         child: Container(

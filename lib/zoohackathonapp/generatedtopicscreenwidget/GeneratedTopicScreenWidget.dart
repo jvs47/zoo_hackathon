@@ -33,10 +33,6 @@ class GeneratedTopicScreenWidget extends StatelessWidget {
               Positioned(
                 left: 0.0,
                 top: 0.0,
-                right: null,
-                bottom: null,
-                width: 375.0,
-                height: 812.0,
                 child: GeneratedSvg8Widget2(),
               ),
               Positioned(
