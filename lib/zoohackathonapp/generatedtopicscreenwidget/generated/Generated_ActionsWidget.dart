@@ -29,7 +29,7 @@ class Generated_ActionsWidget extends StatelessWidget {
               ),
               Positioned(
                 left: -63.5,
-                top: 18.0,
+                top: 16.0,
                 right: null,
                 bottom: null,
                 width: 332.0,

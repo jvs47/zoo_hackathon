@@ -7,14 +7,13 @@ class GeneratedIconchevronleftWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      '''􀆉''',
+      '''<''',
       overflow: TextOverflow.visible,
       textAlign: TextAlign.center,
       style: TextStyle(
-        height: 1.0434782608695652,
-        fontSize: 23.0,
+        fontSize: 27.0,
         fontFamily: 'SF Pro Display',
-        fontWeight: FontWeight.w500,
+        fontWeight: FontWeight.w300,
         color: Color.fromARGB(255, 255, 255, 255),
 
         /* letterSpacing: 0.3799999952316284, */
