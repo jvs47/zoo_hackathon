@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import '../models/article.dart';
 import 'dart:convert';
@@ -6,6 +7,9 @@ import '../helpers/security.dart';
 
 class News {
   List<Article> news = [];
+  List<Article> news1 = [];
+  List<Article> news2 = [];
+  List<Article> news3 = [];
 
   Future<void> getNews() async {
     List<String> keywords = [
@@ -46,7 +50,8 @@ class News {
     }
     String url = 'https://newsapi.org/v2/everything?q=' +
         getKeywords +
-        '&pageSize=10' +
+        '&excludeDomains=reuters.com' +
+        '&pageSize=9' +
         '&apiKey=' +
         apiKey;
 
@@ -72,5 +77,9 @@ class News {
         }
       });
     }
+    news1 = [news[0],news[1],news[2]];
+    news2 = [news[3],news[4],news[5]];
+    news3 = [news[6],news[7],news[8]];
+
   }
 }

@@ -1,11 +1,11 @@
 # This is a generated file; do not edit or check into version control.
-path_provider=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.7/
-path_provider_android=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.6/
-path_provider_ios=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.6/
-path_provider_linux=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.1/
-path_provider_macos=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.2/
-path_provider_windows=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.4/
-sqflite=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+4/
-webview_flutter=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-2.3.1/
-webview_flutter_android=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.2.1/
-webview_flutter_wkwebview=/Users/knc/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.4.0/
+path_provider=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider-2.0.7\\
+path_provider_android=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_android-2.0.6\\
+path_provider_ios=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_ios-2.0.6\\
+path_provider_linux=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.1.1\\
+path_provider_macos=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.2\\
+path_provider_windows=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.4\\
+sqflite=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\sqflite-2.0.0+4\\
+webview_flutter=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\webview_flutter-2.3.1\\
+webview_flutter_android=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\webview_flutter_android-2.2.1\\
+webview_flutter_wkwebview=C:\\Users\\vucuo\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\webview_flutter_wkwebview-2.4.0\\

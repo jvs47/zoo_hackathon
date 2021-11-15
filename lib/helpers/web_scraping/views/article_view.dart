@@ -20,7 +20,8 @@ class _ArticleViewState extends State<ArticleView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(centerTitle: true, title: const Text("News")),
+      appBar: AppBar(backgroundColor: Colors.transparent,
+          centerTitle: true, title: const Text("News")),
       body: Stack(
         children: [
           WebView(
