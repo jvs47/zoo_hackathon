@@ -87,16 +87,16 @@ class GeneratedQuizTopicScreenWidget extends StatelessWidget {
                 top: 533.0,
                 child: GeneratedCategoryWidget5(),
               ),
-              Positioned(
-                left: 25.0,
-                top: 716.0,
-                child: GeneratedCategoryWidget6(),
-              ),
-              Positioned(
-                left: 191.0,
-                top: 716.0,
-                child: GeneratedCategoryWidget7(),
-              ),
+              // Positioned(
+              //   left: 25.0,
+              //   top: 716.0,
+              //   child: GeneratedCategoryWidget6(),
+              // ),
+              // Positioned(
+              //   left: 191.0,
+              //   top: 716.0,
+              //   child: GeneratedCategoryWidget7(),
+              // ),
               Positioned(
                 left: 0.0,
                 top: 750.0,

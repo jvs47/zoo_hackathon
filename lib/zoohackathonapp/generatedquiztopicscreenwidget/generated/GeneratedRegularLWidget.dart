@@ -16,7 +16,7 @@ class GeneratedRegularLWidget extends StatelessWidget {
           overflow: Overflow.visible,
           children: [
             Positioned(
-              left: 0.0,
+              left: -6.0,
               top: 0.0,
               right: null,
               bottom: null,
