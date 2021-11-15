@@ -48,7 +48,7 @@ class zooHackathonApp extends StatelessWidget {
           screen = GeneratedSignupScreenWidget();
           break;
         case QuestionScreenWidget:
-          screen = GeneratedQuestionScreenWidget();
+          screen = GeneratedQuestionScreenWidget(0);
           break;
         default:
           return null;

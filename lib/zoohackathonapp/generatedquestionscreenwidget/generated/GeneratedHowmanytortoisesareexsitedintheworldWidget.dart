@@ -5,12 +5,18 @@ import 'package:flutter/material.dart';
   */
 class GeneratedHowmanytortoisesareexsitedintheworldWidget
     extends StatelessWidget {
+  String que;
+  GeneratedHowmanytortoisesareexsitedintheworldWidget(String quest){
+    que = quest;
+  }
+
+
   @override
   Widget build(BuildContext context) {
     return Align(
       alignment: Alignment.center,
       child: Text(
-        '''How many tortoises are exsited in the world?''',
+        que,
         overflow: TextOverflow.visible,
         textAlign: TextAlign.center,
         style: TextStyle(
