@@ -18,6 +18,7 @@ class SigninWallpaperWidget extends StatelessWidget {
             end: Alignment.bottomCenter,
             colors: [
               Color(0xffFBFEFF),
+              Color(0xffFBFEFF),
             ],
           )),
         ));
