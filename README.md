@@ -25,7 +25,7 @@ All the codes are written from the second day of Zoohackathon 2021.
 ## Installation
 
 ```
-Fork the project https://github.com/jvs47/zoo_hackathon`
+Fork the project https://github.com/jvs47/zoo_hackathon
 
 $ git clone git@github.com:<YOUR-USER>/zoo_hackathon.git
 $ cd zoo_hackathon
